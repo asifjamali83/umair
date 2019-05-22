@@ -22,27 +22,27 @@ from googletrans import Translator
 import youtube_dl #jx
 #import pyimgflip
 
-cl = LineClient('bankger@yahoo.com','putriku75')
+cl = LineClient("asifjamali83@gmail.com","Atifkhan83")
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-ki = LineClient('slametputra255@yahoo.com','putriku75')
+ki = LineClient("bot-three@asifboot.com","Atifkhan83")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki,ki.server.CHANNEL_ID['LINE_TIMELINE'])
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
-kk = LineClient('kasems26@yahoo.com','putriku75')
+kk = LineClient("lover1@asifboot.com","Atifkhan83")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk,kk.server.CHANNEL_ID['LINE_TIMELINE'])
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
-kc = LineClient('tegarbot1@yahoo.com','putriku75')
+kc = LineClient("atifali1@asifboot.com","Atifkhan83")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc,kc.server.CHANNEL_ID['LINE_TIMELINE'])
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
-sw = LineClient('tegarbot2@yahoo.com','putriku75')
+sw = LineClient("xqzuvfxb@max-mail.com","rahman11")
 sw.log("Auth Token : " + str(sw.authToken))
 channel4 = LineChannel(sw,sw.server.CHANNEL_ID['LINE_TIMELINE'])
 sw.log("Channel Access Token : " + str(channel4.channelAccessToken))
