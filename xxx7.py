@@ -52,10 +52,10 @@ print ("\nBOT MULAI BERJALAN......")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u8a1e16bcff6c5468a076fc6c4e043daf"]
-owner = ["u8a1e16bcff6c5468a076fc6c4e043daf"]
-admin = ["u8a1e16bcff6c5468a076fc6c4e043daf"]
-staff = ["u8a1e16bcff6c5468a076fc6c4e043daf"]
+creator = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+owner = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+admin = ["u7e99c5b3e4f01c95c104d0993fc41998"]
+staff = ["u7e99c5b3e4f01c95c104d0993fc41998"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
