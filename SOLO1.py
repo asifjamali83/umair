@@ -30,10 +30,10 @@ print("\nSADIS BOTS SUKCESS LOGIN.....\n")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u56be6a26ffe231838fa5f312c00fd703"]
-owner = ["u56be6a26ffe231838fa5f312c00fd703"]
-admin = ["u56be6a26ffe231838fa5f312c00fd703"]
-staff = ["u56be6a26ffe231838fa5f312c00fd703"]
+creator = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
+owner = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
+admin = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
+staff = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
@@ -426,7 +426,7 @@ def help():
                    "🔑❂͜͡➣" + key + "ʀᴇsᴇᴛᴋᴇʏ\n" + \
                   "🔑❂͜͡➣ " + key + "ʀᴇғʀᴇsʜ\n" + \
                   "🔑❂͜͡➣ " + key + "Restart\n"+ \
-                  "🔑❂͜͡➣ [[SADIS_BOTS]]"
+                  "🔑❂͜͡➣ [[by. 􀰂􀰂✯ͥ ͣ ͫ͢ŚhÀH•ŹÀ!η࿐❥]]"
 
     return helpMessage
 
@@ -471,7 +471,7 @@ def help1():
                    "🔑❂͜͡➣ " + key + "ɢɪғᴛ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
                    "🔑❂͜͡➣ " + key + "sᴘᴀᴍ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
                    "「🔑]   ʙʏ: SADIS「🔑] \n" + \
-                   "  Creator:  line.me/ti/p/~gerhanaselatan"
+                   ""
                   
     return helpMessage1
 
@@ -503,7 +503,7 @@ def help2():
                   "「🔑] " + key + "sᴇᴛ ʀᴇsᴘᴏɴ:「ᴛᴇxᴛ」\n" + \
                   "「🔑] " + key + "sᴇᴛ ʟᴇᴀᴠᴇ:「ᴛᴇxᴛ」\n" + \
                   "「🔑] " + key + "sᴇᴛ ᴡᴇʟᴄᴏᴍᴇ:「ᴛᴇxᴛ」\n" + \
-                  " [🔑SADIS BOTS\n" + \
+                  " [􀰂􀰂✯ͥ ͣ ͫ͢ŚhÀH•ŹÀ!η࿐❥\n" + \
                   "🔑Creator:  line.me/ti/p/~gerhanaselatan"
 
     return helpMessage2
@@ -550,7 +550,7 @@ def help3():
                   "「🔑」 " + key + "Get-lirik「Judul Lagu」\n" + \
                   "「🔑」 " + key + "Get-instagram「User Name」\n" + \
                   "「🔑」 " + key + "Get-date「tgl-bln-thn」\n" + \
-                  "「🔑」BY: SADIS\n" + \
+                  "「🔑」BY: 􀰂􀰂✯ͥ ͣ ͫ͢ŚhÀH•ŹÀ!η࿐❥\n" + \
                   "  Creator:  line.me/ti/p/~gerhanaselatan"
 
     return helpMessage3
