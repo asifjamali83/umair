@@ -22,7 +22,7 @@ from googletrans import Translator
 import youtube_dl
 #GUNAKAN BOT DENGAN BIJAK,,,SALAM SANTUN
 
-cl = LineClient("wahyutok1295@gmail.com","sentolang123")
+cl = LineClient("asifali1@asifboot.com","Atifkhan83")
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -30,10 +30,10 @@ print("\nSADIS BOTS SUKCESS LOGIN.....\n")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
-owner = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
-admin = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
-staff = ["ub8fedb6ad62ed280a2bc92b13cc33da2"]
+creator = ["u35577e52b245ace6deb64e33a301f3b0"]
+owner = ["u35577e52b245ace6deb64e33a301f3b0"]
+admin = ["u35577e52b245ace6deb64e33a301f3b0"]
+staff = ["u35577e52b245ace6deb64e33a301f3b0"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
